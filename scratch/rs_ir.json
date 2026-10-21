@@ -1,0 +1,427 @@
+{
+  "has_sidebar": true,
+  "sidebar_position": "left",
+  "sidebar_width_percent": 34,
+  "sidebar_bg_color": "#1E3A5F",
+  "accent_color": "#1E3A5F",
+  "header_bg_color": "#FFFFFF",
+  "has_corner_decorations": false,
+  "elements": [
+    {
+      "type": "image",
+      "bbox": [
+        40,
+        57,
+        191,
+        273
+      ],
+      "image_label": "photo",
+      "icon_type": "none",
+      "skill_name": "",
+      "skill_percent": 0,
+      "image_asset_path": "C:\\Users\\user\\OneDrive\\Music\\OneDrive\\Desktop\\Destop\\image-to-word-saas\\outputs\\assets\\inspect_rs_p1_img0_a4e1fc.png",
+      "pixel_width": 100,
+      "pixel_height": 99
+    },
+    {
+      "type": "heading",
+      "text": "RICHARD SANCHEZ",
+      "column": "right",
+      "font_size_pt": 32,
+      "is_bold": true,
+      "is_italic": false,
+      "text_color": "#333333",
+      "text_align": "left"
+    },
+    {
+      "type": "heading",
+      "text": "MARKETING MANAGER",
+      "column": "right",
+      "font_size_pt": 18,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#666666",
+      "text_align": "left"
+    },
+    {
+      "type": "heading",
+      "text": "CONTACT",
+      "column": "left",
+      "font_size_pt": 14,
+      "is_bold": true,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "text_align": "left"
+    },
+    {
+      "type": "contact_item",
+      "text": "+123-456-7890",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "phone"
+    },
+    {
+      "type": "contact_item",
+      "text": "hello@reallygreatsite.com",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "email"
+    },
+    {
+      "type": "contact_item",
+      "text": "123 Anywhere St., Any City",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "location"
+    },
+    {
+      "type": "contact_item",
+      "text": "www.reallygreatsite.com",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "website"
+    },
+    {
+      "type": "heading",
+      "text": "EDUCATION",
+      "column": "left",
+      "font_size_pt": 14,
+      "is_bold": true,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "text_align": "left"
+    },
+    {
+      "type": "paragraph",
+      "text": "2029 - 2030\nWARDIERE UNIVERSITY\nMaster of Business Management",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "text_align": "left"
+    },
+    {
+      "type": "paragraph",
+      "text": "2025 - 2029\nWARDIERE UNIVERSITY\nBachelor of Business\nGPA: 3.8 / 4.0",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "text_align": "left"
+    },
+    {
+      "type": "heading",
+      "text": "SKILLS",
+      "column": "left",
+      "font_size_pt": 14,
+      "is_bold": true,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "text_align": "left"
+    },
+    {
+      "type": "bullet",
+      "text": "Project Management",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Public Relations",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Teamwork",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Time Management",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Leadership",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Effective Communication",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Critical Thinking",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "heading",
+      "text": "LANGUAGES",
+      "column": "left",
+      "font_size_pt": 14,
+      "is_bold": true,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "text_align": "left"
+    },
+    {
+      "type": "bullet",
+      "text": "English (Fluent)",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "French (Fluent)",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "German (Basics)",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Spanish (Intermediate)",
+      "column": "left",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#FFFFFF",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "heading",
+      "text": "PROFILE",
+      "column": "right",
+      "font_size_pt": 14,
+      "is_bold": true,
+      "is_italic": false,
+      "text_color": "#333333",
+      "text_align": "left"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation. Ut enim ad minim veniam quis nostrud exercitation.",
+      "column": "right",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#555555",
+      "text_align": "left"
+    },
+    {
+      "type": "heading",
+      "text": "WORK EXPERIENCE",
+      "column": "right",
+      "font_size_pt": 14,
+      "is_bold": true,
+      "is_italic": false,
+      "text_color": "#333333",
+      "text_align": "left"
+    },
+    {
+      "type": "paragraph",
+      "text": "Borcelle Studio | 2030 - PRESENT\nMarketing Manager & Specialist",
+      "column": "right",
+      "font_size_pt": 11,
+      "is_bold": true,
+      "is_italic": false,
+      "text_color": "#333333",
+      "text_align": "left"
+    },
+    {
+      "type": "bullet",
+      "text": "Develop and execute comprehensive marketing strategies and campaigns that align with the company's goals and objectives.",
+      "column": "right",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#555555",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Lead, mentor, and manage a high-performing marketing team, fostering a collaborative and results-driven work environment.",
+      "column": "right",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#555555",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Monitor brand consistency across marketing channels and materials.",
+      "column": "right",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#555555",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fauget Studio | 2025 - 2029\nMarketing Manager & Specialist",
+      "column": "right",
+      "font_size_pt": 11,
+      "is_bold": true,
+      "is_italic": false,
+      "text_color": "#333333",
+      "text_align": "left"
+    },
+    {
+      "type": "bullet",
+      "text": "Create and manage the marketing budget, ensuring efficient allocation of resources and optimizing ROI.",
+      "column": "right",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#555555",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Oversee market research to identify emerging trends, customer needs, and competitor strategies.",
+      "column": "right",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#555555",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Monitor brand consistency across marketing channels and materials.",
+      "column": "right",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#555555",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "paragraph",
+      "text": "Studio Shodwe | 2024 - 2025\nMarketing Manager & Specialist",
+      "column": "right",
+      "font_size_pt": 11,
+      "is_bold": true,
+      "is_italic": false,
+      "text_color": "#333333",
+      "text_align": "left"
+    },
+    {
+      "type": "bullet",
+      "text": "Develop and maintain strong relationships with partners, agencies, and vendors to support marketing initiatives.",
+      "column": "right",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#555555",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "bullet",
+      "text": "Monitor and maintain brand consistency across all marketing channels and materials.",
+      "column": "right",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#555555",
+      "icon_type": "bullet_dot"
+    },
+    {
+      "type": "heading",
+      "text": "REFERENCE",
+      "column": "right",
+      "font_size_pt": 14,
+      "is_bold": true,
+      "is_italic": false,
+      "text_color": "#333333",
+      "text_align": "left"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estelle Darcy\nWardiere Inc. / CTO\nPhone: 123-456-7890\nEmail: hello@reallygreatsite.com",
+      "column": "right",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#555555",
+      "text_align": "left"
+    },
+    {
+      "type": "paragraph",
+      "text": "Harper Richard\nWardiere Inc. / CEO\nPhone: 123-456-7890\nEmail: hello@reallygreatsite.com",
+      "column": "right",
+      "font_size_pt": 10,
+      "is_bold": false,
+      "is_italic": false,
+      "text_color": "#555555",
+      "text_align": "left"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# Secrets & Environment variables
+.env
+.env.*
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Project uploads and outputs
+uploads/*
+!uploads/.gitkeep
+outputs/*
+!outputs/.gitkeep
+outputs/assets/*
+
+# OS generated
+.DS_Store
+Thumbs.db
+
